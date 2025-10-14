@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1760461069701",
+    "jobTitle": "Senior Software Developer",
+    "location": "Toronto",
+    "workCondition": "On-site",
+    "employmentType": "Full-time",
+    "responsibilities": [
+      "Design, develop, and maintain server-side applications",
+      "Collaborate with cross-functional teams to define, design, and ship new features",
+      "Troubleshoot and resolve software defects and performance issues",
+      "Participate in code reviews and mentor junior developers",
+      "Stay up-to-date with emerging technologies and industry trends"
+    ],
+    "minimumRequirement": "C#",
+    "preferredSkills": "python",
+    "requirements": "Dental beneft. Company name - XYZ company",
+    "email": "employer@guhuza.com",
+    "title": "Senior Software Developer",
+    "summary": "We are seeking a skilled Senior Software Developer to join our dynamic team in Toronto. The ideal candidate will be responsible for managing server-side applications and contributing to the development of innovative software solutions.",
+    "minimumQualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "5+ years of experience in software development",
+      "Strong proficiency in C# and .NET framework",
+      "Experience with database management and server architecture",
+      "Strong knowledge of Java."
+    ],
+    "preferredQualifications": [
+      "Familiarity with Python programming language",
+      "Experience with cloud services such as AWS or Azure",
+      "Knowledge of Agile development methodologies"
+    ],
+    "workingConditions": "This is a full-time, on-site position based in Toronto.",
+    "benefits": "We offer competitive salaries, comprehensive health benefits, and opportunities for professional development.",
+    "analysis": {
+      "generatedJD": {
+        "title": "Senior Software Developer",
+        "summary": "We are seeking a skilled Senior Software Developer to join our dynamic team in Toronto. The ideal candidate will be responsible for managing server-side applications and contributing to the development of innovative software solutions.",
+        "responsibilities": [
+          "Design, develop, and maintain server-side applications",
+          "Collaborate with cross-functional teams to define, design, and ship new features",
+          "Troubleshoot and resolve software defects and performance issues",
+          "Participate in code reviews and mentor junior developers",
+          "Stay up-to-date with emerging technologies and industry trends"
+        ],
+        "minimumQualifications": [
+          "Bachelor's degree in Computer Science or related field",
+          "5+ years of experience in software development",
+          "Strong proficiency in C# and .NET framework",
+          "Experience with database management and server architecture",
+          "Strong knowledge of Java."
+        ],
+        "preferredQualifications": [
+          "Familiarity with Python programming language",
+          "Experience with cloud services such as AWS or Azure",
+          "Knowledge of Agile development methodologies"
+        ],
+        "workingConditions": "This is a full-time, on-site position based in Toronto.",
+        "benefits": "We offer competitive salaries, comprehensive health benefits, and opportunities for professional development."
+      },
+      "overallScore": 85,
+      "categoryScores": {
+        "jobTitle": 9,
+        "roleSummary": 8,
+        "reportingStructure": 7,
+        "responsibilities": 8,
+        "qualifications": 8,
+        "companyCulture": 7,
+        "benefits": 7,
+        "workingConditions": 8,
+        "languageClarity": 9,
+        "biasCompliance": 10
+      },
+      "suggestions": {
+        "critical": [],
+        "recommended": [
+          {
+            "text": "Add more details about company culture",
+            "category": "companyCulture",
+            "action": "add",
+            "suggestedText": "Include information about team dynamics and values.",
+            "reasoning": "This helps candidates understand the work environment and fit."
+          }
+        ],
+        "niceToHave": []
+      },
+      "matchabilityHints": {
+        "titleClarity": "good",
+        "skillsCoverage": "good",
+        "locationSpecificity": "good",
+        "seniorityLevel": "clear"
+      }
+    },
+    "type": "smart-builder",
+    "createdAt": "2025-10-14T16:57:49.701Z",
+    "status": "active"
+  },
+  {
+    "id": "1760461196684",
+    "email": "employer@guhuza.com",
+    "jobTitle": "Manual Entry Job",
+    "jobDescription": "We are seeking for Senior Software Developer in XYZ company. .........",
+    "analysis": {
+      "overallScore": 65,
+      "categoryScores": {
+        "jobTitle": 6,
+        "roleSummary": 5,
+        "reportingStructure": 5,
+        "responsibilities": 6,
+        "qualifications": 6,
+        "companyCulture": 5,
+        "benefits": 5,
+        "workingConditions": 6,
+        "languageClarity": 7,
+        "biasCompliance": 8
+      },
+      "suggestions": {
+        "critical": [
+          {
+            "text": "Job title lacks specificity",
+            "category": "jobTitle",
+            "action": "fix",
+            "currentText": "Senior Software Developer",
+            "suggestedText": "Senior Software Developer - [specific technology or domain]",
+            "reasoning": "Adding specificity can attract more relevant candidates."
+          }
+        ],
+        "recommended": [
+          {
+            "text": "Add a summary of the role",
+            "category": "roleSummary",
+            "action": "add",
+            "suggestedText": "Include a brief overview of the team's goals and the impact of the role.",
+            "reasoning": "This helps candidates understand the importance of the position."
+          }
+        ],
+        "niceToHave": []
+      },
+      "matchabilityHints": {
+        "titleClarity": "needs_improvement",
+        "skillsCoverage": "partial",
+        "locationSpecificity": "needs_improvement",
+        "seniorityLevel": "clear"
+      },
+      "summary": "The job description needs more specificity and clarity to attract suitable candidates."
+    },
+    "type": "manual-entry",
+    "createdAt": "2025-10-14T16:59:56.684Z",
+    "status": "active"
+  }
+]
