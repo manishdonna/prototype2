@@ -1,0 +1,42 @@
+## Folder Structure
+guhuza-jd-optimizer/
+client/
+
+# React Frontend
+
+public/
+src/
+components/
+Header.jsx
+Footer.jsx
+AnalysisResults.jsx
+pages/
+Login.jsx
+MethodChoice.jsx
+SmartBuilder.jsx
+ManualEntry.jsx
+Dashboard.jsx
+App.js
+index.js
+index.css
+package.json
+server/
+
+# Node.js Backend
+
+data/
+jobs.json
+users.json
+uploads/
+routes/
+auth.js
+analyze.js
+jobs.js
+utils/
+aiService.js
+fileParser.js
+storage.js
+server.js
+.env
+package.json
+
