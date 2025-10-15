@@ -1,0 +1,7 @@
+#Setup Guide
+-Backend:
+  npm install
+  npm run dev
+-Frontend:
+  npm install
+  npm start
